@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: none;
+    z-index: 1;
+}
+
+.visible {
+    display: block;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    right: -380px;
+    height: 100%;
+    width: 380px;
+    padding: 20px 15px;
+    background-color: white;
+    transition: right 0.3s ease-in-out;
+    z-index: 100;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    box-sizing: border-box;
+
+}
+
+.collapsed {
+    right: 0;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading span {
+    font-size: 16px;
+}
+
+.closeBtn {
+    color: #6c757d;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+/* form styling  */
+
+#form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+
+}
+
+.input-control {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+label {
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.8px;
+}
+
+.input-control input,
+select {
+    border: 1px solid var(--text-secondary);
+    border-radius: 8px;
+    display: block;
+    font-size: 15px;
+    padding: 10px;
+    color: #adb5bd;
+    outline: none;
+}
+
+select {
+    padding-right: 20px;
+    cursor: pointer;
+    /* appearance: none;
+position: relative; */
+}
+
+.input-control input::placeholder {
+    color: #adb5bd;
+}
+
+.input-control input:focus {
+    outline: 0;
+}
+
+.doneBtn {
+    position: absolute;
+    bottom: 20px;
+    right: 15px;
+    width: 200px;
+}

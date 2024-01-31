@@ -1,0 +1,96 @@
+ table {
+     border-collapse: collapse;
+     width: 100%;
+     color: #343a40;
+     border: 1px solid #ced4da;
+ }
+
+ thead {
+     background-color: #DEEAFA;
+     border: none;
+     text-align: left;
+     font-size: 15px;
+ }
+
+ tbody {
+     font-size: 15px;
+     text-align: left;
+ }
+
+ /*
+
+
+th:first-child,
+td:first-child,
+th:last-child,
+td:last-child {
+    width: 4%;
+}
+td:nth-child(2),
+td:nth-child(3)
+{
+    width: 4%;
+}
+td:nth-child(4){
+    width: 15%;
+}
+td,
+th {
+    text-align: left;
+    padding: 8px;
+} */
+ /* overview.css */
+
+ th,
+ td {
+     text-align: left;
+     padding: 8px;
+ }
+
+
+ th:first-child,
+ td:first-child,
+ th:last-child,
+ td:last-child {
+     width: 30px;
+ }
+
+ td:nth-child(2) {
+     width: 30px;
+ }
+
+ .collapseBtn,
+ .caret {
+     cursor: pointer;
+ }
+
+ .civil_tr {
+     border-bottom: 1px solid #ced4da;
+ }
+
+ .collapseBtn {
+     color: #60D1D0;
+     cursor: pointer;
+     font-size: 18px;
+ }
+
+ .caret {
+     font-size: 20px;
+     cursor: pointer;
+ }
+
+ .sqft {
+     font-style: italic;
+     font-weight: normal;
+     font-size: 14px;
+ }
+
+ input[type="checkbox"] {
+     width: 15px;
+     height: 15px;
+     border-radius: 3px;
+     background-color: white;
+     outline: none;
+     border: 1px solid #ced4da;
+     cursor: pointer;
+ }

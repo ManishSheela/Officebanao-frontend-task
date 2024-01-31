@@ -1,0 +1,65 @@
+/* home page styling  */
+.container {
+  width: 100%;
+  padding: 12px 30px;
+  /* border: 1px solid red; */
+  box-sizing: border-box;
+  color: var(--text-primary);
+}
+
+.heading {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.heading>span {
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.btn {
+  color: white;
+  font-weight: bold;
+  outline: none;
+  border: none;
+  background-color: #60D1D0;
+  padding: 10px 40px;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.btn:hover {
+  background-color: #48afad;
+}
+
+/* tab switch styling */
+
+nav {
+  margin: 30px 0px;
+}
+
+.overviewBtn,
+.otherBtn {
+  font-weight: bold;
+  border: none;
+  outline: none;
+  background-color: inherit;
+  padding: 10px 80px;
+  color: var(--text-secondary);
+  border-bottom: 2px solid var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.active_tab {
+  color: var(--text-primary);
+  border-bottom: 2px solid var(--text-primary);
+}

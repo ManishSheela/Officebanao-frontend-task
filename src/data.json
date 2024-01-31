@@ -1,0 +1,562 @@
+[
+  {
+    "id": 1,
+    "package_name": "Civil 1",
+    "rate": "567.80",
+    "total": "₹ 2,98,6792",
+    "subRows": [
+      {
+        "id": 11,
+        "package_name": "Activity 1",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 111,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 112,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 113,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "package_name": "Activity 2",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 121,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 122,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 123,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "package_name": "Activity 3",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 131,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 132,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 133,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "package_name": "Activity 4",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 141,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 142,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 143,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "package_name": "Civil 2",
+    "rate": "567.80",
+    "total": "₹ 2,98,6792",
+    "subRows": [
+      {
+        "id": 21,
+        "package_name": "Activity 1",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 211,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 212,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 213,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "package_name": "Activity 2",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 221,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 222,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 223,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "package_name": "Activity 3",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 231,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 232,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 233,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "package_name": "Activity 4",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 411,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 412,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 413,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "package_name": "Civil 3",
+    "rate": "567.80",
+    "total": "₹ 2,98,6792",
+    "subRows": [
+      {
+        "id": 31,
+        "package_name": "Activity 1",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 311,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 312,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 313,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "package_name": "Activity 2",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 321,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 322,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 323,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "package_name": "Activity 3",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 331,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 332,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 333,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "package_name": "Activity 4",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 341,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 342,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 343,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "package_name": "Civil 4",
+    "rate": "567.80",
+    "total": "₹ 2,98,6792",
+    "subRows": [
+      {
+        "id": 41,
+        "package_name": "Activity 1",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 411,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 412,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 413,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "package_name": "Activity 2",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 421,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 422,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 423,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "package_name": "Activity 3",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 431,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 432,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 433,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "package_name": "Activity 4",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 451,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 452,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 453,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "package_name": "Civil 5",
+    "rate": "567.80",
+    "total": "₹ 2,98,6792",
+    "subRows": [
+      {
+        "id": 51,
+        "package_name": "Activity 1",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 511,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 512,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 513,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 52,
+        "package_name": "Activity 2",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 521,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 522,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 523,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 53,
+        "package_name": "Activity 3",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 531,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 532,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 533,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "package_name": "Activity 4",
+        "rate": "567.80",
+        "total": "₹ 2,98,6792",
+        "subRows": [
+          {
+            "id": 541,
+            "package_name": "Work Item 1",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 542,
+            "package_name": "Work Item 2",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          },
+          {
+            "id": 543,
+            "package_name": "Work Item 3",
+            "rate": "567.80",
+            "total": "₹ 2,98,6792"
+          }
+        ]
+      }
+    ]
+  }
+]
