@@ -34,7 +34,13 @@ const Sidebar = ({ collapsed, setCollapsed }) => {
     const isFormValid = Object.values(selectedValues).every(
       (value) => value.trim() !== ""
     );
-
+    if (
+      new Date(selectedValues.date_of_commencement) >
+      new Date(selectedValues.date_of_completion)
+    ) {
+      alert("date_of_completion can't be greater");
+      return;
+    }
     if (isFormValid) {
       console.log(selectedValues);
       setSelectedValues(initialValue);
